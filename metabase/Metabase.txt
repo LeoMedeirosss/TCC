@@ -1,0 +1,39 @@
+Metabase:
+    Arquivos que foram encontrados code smells:
+        ExplicitSize.tsx = Large Component, JSX outside the render method - 50 commits - 17 autores
+        SortableList.tsx = Large Component, Too many props - 15 commits - 10 autores
+        SelectEmbedTypePane.tsx = Large Component, Too many props - 24 commits - 14 autores
+        ViewTitleHeaderRightSide.tsx = Too many props - 24 commits - 10 autores
+        ViewTitleHeader.tsx = Large Component, Too many props - 11 commits - 7 autores
+        Visualization.tsx = Large Component, JSX outside the render method, Too many props - 264 commits - 41 autores
+        CartesianChart.tsx = Large Component, Too many props - 32 commits - 8 autores
+        Editor.tsx = Large Component e Too Many Props - 9 commits - 4 autores
+        EditorBubbleMenu.tsx = Large Component - 1 commit - 1 autor
+        FlexContainer.tsx = Large Component - 2 commits - 2 autores
+        IllustrationWidget.tsx = Large Component e Uncontrolled Component - 12 commits - 7 autores
+        ImageUploadWidget.tsx = Large Component e Uncontrolled Component - 1 commit - 1 autor
+
+        Média de commits de arquivos com code smell: 37.1 commits
+        Média de autores por arquivo: 10.1 autores
+
+    Alguns arquivos que não foram encontrados code smells:
+        LoginHistory.jsx - 17 commits - 10 autores
+        AdminNav.tsx - 11 commits - 2 autores
+        PasswordButton.tsx - 6 commits - 3 autores
+        CollectionMenu.tsx - 32 commits - 12 autores
+        FormRadioGroup.tsx - 2 commits - 2 autores
+        CurrencyPicker.tsx - 7 commits - 1 autor
+        DropdownSidebarFilter.tsx - 10 commits - 7 autores
+        FormCollectionPicker.tsx - 29 commits - 12 autores
+        CreateCollectionModal.tsx - 13 commits - 8 autores
+        UploadOverlay.tsx - 8 commits - 5 autores
+        UpsellWhitelabel.tsx - 7 commits - 4 autores
+        UpsellStorage.tsx - 4 commits - 2 autores
+
+        Média de commits de arquivos sem code smell: 12.2 commits
+        Média de autores por arquivo: 5.7 autores
+
+    Large Component: 10 - 83%
+    Too many props: 6 - 50%
+    JSX outside the render method: 2 - 17%
+    Uncontrolled Component: 2 - 17%

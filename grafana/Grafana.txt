@@ -1,0 +1,42 @@
+Grafana:
+    Arquivos que foram encontrados code smells:
+        HistoryWrapper.tsx = Large Component - 11 commits - 5 autores
+        Combobox.test.tsx = Too many props - 23 commits - 10 autores
+        Combobox.tsx = Large Component, Too many props - 55 commits - 14 autores
+        DataSourceRuleListItem.tsx = Large Component, Too many props - 3 commits - 2 autores
+        DashboardEditPaneSplitter.tsx = Large Component, Too many props - 16 commits - 6 autores
+        FilterPopup.tsx = Large Component - 29 commits - 18 autores
+        AutoGridItem.tsx = Too many props, Inheritance instead of composition - 22 commits - 5 autores
+        DashboardGridItem.tsx = Large Component, Too many props - 50 commits - 8 autores
+        RowItem.tsx = Large Component, Too many props - 42 commits - 8 autores
+        TabItem.tsx = Large Component, Too many props - 35 commits - 7 autores
+        LogsQueryBuilder.tsx = Large Component, Too many props - 7 commits - 4 autores
+        OrderBySection.tsx = Large Component - 5 commits - 3 autores
+        TableSection.tsx = Large Component, Too many props - 6 commits - 4 autores
+        SpanFiltersTags.tsx = Large Component - 7 commits - 5 autores
+
+    Média de commits de arquivos com code smell: 22.2 commits
+    Média de autores por arquivo: 7.1 autores
+
+    Alguns arquivos que não foram encontrados code smells:
+        XYChartPanel.tsx - 24 commits - 11 autores
+        Welcome.tsx - 11 commits - 6 autores
+        DashBoardPermission.tsx - 26 commits - 5 autores
+        TrendPannel.tsx - 34 commits - 14 autores
+        TracesPannel.tsx - 21 commits - 9 autores
+        VersionHistoryComparison.tsx - 4 commits - 4 autores
+        ValidationLabels.tsx - 4 commits - 3 autores
+        UpgradeBox.tsx - 14 commits - 6 autores
+        ProBadge.tsx - 8 commits - 5 autores
+        ActionEditor.tsx - 12 commits - 4 autores
+        DataHoverRows.tsx - 10 commits - 6 autores
+        DataHoverTabs.tsx - 4 commits - 3 autores
+        ExemplarTooltip.tsx - 1 commit - 1 autor
+        GazetteerPathEditor.tsx - 12 commit - 6 autores
+
+    Média de commits de arquivos sem code smells: 13.2 commits
+    Média de autores por arquivo: 5.9 autores
+
+    Large Components: 11 - 78%
+    Too many props: 8 - 57%
+    Inheritance instead of composition: 1 - 7%

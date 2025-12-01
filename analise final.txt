@@ -1,0 +1,227 @@
+✅ RELATÓRIO
+
+(com smells, sem smells, médias, insights)
+
+ANÁLISE CONSOLIDADA DE CODE SMELLS
+============================================================
+Total de arquivos analisados: 110
+
+Grafana: 14 arquivos
+
+Metabase: 12 arquivos
+
+Redash: 53 arquivos
+
+Carbon: 19 arquivos
+
+Prometheus: 12 arquivos
+
+Distribuição por tipo de Code Smell:
+
+Large Component: 93 ocorrências (71.5%)
+
+Too many props: 56 ocorrências (43.1%)
+
+JSX outside the render method: 38 ocorrências (29.2%)
+
+Direct DOM Manipulation: 2 ocorrências (1.5%)
+
+Uncontrolled component: 4 ocorrências (3.1%)
+
+Force Update: 3 ocorrências (2.3%)
+
+Inheritance instead of composition: 4 ocorrências (3.1%)
+
+Props in initial state: 2 ocorrências (1.5%)
+
+
+Análise por projeto
+| Code Smell                             | Ocorrências | % sobre 110 arquivos |
+| -------------------------------------- | ----------- | -------------------- |
+| **Large Component**                    | 93          | **84.55%**           |
+| **Too many props**                     | 56          | **50.91%**           |
+| **JSX outside the render method**      | 38          | **34.55%**           |
+| **Direct DOM Manipulation**            | 2           | **1.82%**            |
+| **Force Update**                       | 3           | **2.73%**            |
+| **Uncontrolled component**             | 4           | **3.64%**            |
+| **Inheritance instead of composition** | 4           | **3.64%**            |
+| **Props in initial state**             | 2           | **1.82%**            |
+
+
+==============================
+
+Grafana (14 arquivos)
+
+Large Component: 11 (78.6%)
+
+Too many props: 8 (57.1%)
+
+Inheritance instead of composition: 1 (7.1%)
+
+Metabase (12 arquivos)
+
+Large Component: 10 (83.3%)
+
+Too many props: 6 (50.0%)
+
+JSX outside the render method: 2 (16.7%)
+
+Uncontrolled Component: 2 (16.7%)
+
+Redash (53 arquivos)
+
+Large Component: 46 (86.8%)
+
+Too many props: 27 (50.9%)
+
+JSX outside the render method: 26 (49.1%)
+
+Force Update: 3 (5.7%)
+
+Props in initial state: 2 (3.8%)
+
+Inheritance instead of composition: 2 (3.8%)
+
+Carbon (19 arquivos)
+
+Large Component: 15 (78.9%)
+
+Too many props: 8 (42.1%)
+
+JSX outside the render method: 6 (31.6%)
+
+Direct DOM Manipulation: 2 (10.5%)
+
+Uncontrolled component: 2 (10.5%)
+
+Inheritance instead of composition: 1 (5.3%)
+
+Prometheus (12 arquivos)
+
+Large Component: 11 (91.7%)
+
+Too many props: 7 (58.3%)
+
+JSX outside the render method: 4 (33.3%)
+
+Prometheus é o projeto com maior proporção absoluta de Large Component entre todos analisados.
+
+ANÁLISE FINAL CONSOLIDADA (Arquivos com Smells)
+
+==================================================
+
+Médias por projeto
+Projeto	Média  Commits	Média Autores
+Grafana	16.7	 5.4
+Metabase	28.8	 7.4
+Redash	14.64	 5.0
+Carbon	52.21	 9.95
+Prometheus	14.50	 7.00
+MÉDIAS PONDERADAS
+
+Commits por arquivo: 25.02
+
+Autores por arquivo: 7.36
+
+Principais insights (com smells)
+1. Large Component permanece o smell dominante
+
+Agora reforçado com:
+
+Prometheus: 91.7%
+
+Redash: 86.8%
+
+Carbon: 78.9%
+
+Metabase: 83.3%
+
+2. Prometheus apresenta forte acoplamento visual e estrutural
+
+Smells como:
+
+Too many props (58.3%)
+
+JSX outside render (33.3%)
+indicam componentes controladores pesados.
+
+3. Carbon ainda é o projeto com maior colaboração nas partes problemáticas
+
+Prometheus tem muitos autores (7), mas não tantos commits, sugerindo:
+→ muita gente mexendo, porém pouca evolução por arquivo.
+
+4. Padrões sólidos entre todos os projetos
+
+Mais smells → mais pessoas envolvidas → mais necessidade de manutenção.
+
+Análise dos arquivos sem code smells (Atualizada)
+
+Total de arquivos sem smells: 86
+
+Grafana: 14
+
+Metabase: 12
+
+Redash: 20
+
+Carbon: 20
+
+Prometheus: 20
+
+Médias por projeto (sem smells):
+Grafana
+
+Commits: 13.2
+
+Autores: 5.9
+
+Metabase
+
+Commits: 12.2
+
+Autores: 5.7
+
+Redash
+
+Commits: 6.70
+
+Autores: 3.25
+
+Carbon
+
+Commits: 16.40
+
+Autores: 4.70
+
+Prometheus
+
+Commits: 9.05
+
+Autores: 3.70
+
+ANÁLISE FINAL CONSOLIDADA (Arquivos sem Smells)
+
+==================================================
+
+Média de commits: 11.53
+
+Média de autores: 4.37
+
+Principais insights (sem smells)
+1. Prometheus tem padrões parecidos com Redash
+
+Ambos têm:
+
+baixa média de commits
+
+baixa média de autores
+
+2. Carbon continua tendo código limpo mais colaborativo
+
+Carbon (sem smells): 16.4 commits, 4.7 autores
+Prometheus (sem smells): 9.05 commits, 3.7 autores
+
+3. Arquivos limpos atraem menos desenvolvedores
+
+Consistente em todos os 5 projetos:
+→ menos necessidade de manutenção → menos atividade.

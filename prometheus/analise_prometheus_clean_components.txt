@@ -1,0 +1,109 @@
+Redash - Análise de Componentes sem Code Smells
+================================================================================
+
+Total de componentes analisados: 20
+Média de commits por componente: 9.05
+Média de autores por componente: 3.70
+
+Detalhes por componente:
+================================================================================
+
+Componente: App
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\mantine-ui\src\App.tsx
+Commits: 39
+Autores: 3
+
+Componente: ScrapePoolsList
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\mantine-ui\src\pages\targets\ScrapePoolsList.tsx
+Commits: 22
+Autores: 3
+
+Componente: Navbar
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\Navbar.tsx
+Commits: 20
+Autores: 9
+
+Componente: ExpressionInput.test
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\graph\ExpressionInput.test.tsx
+Commits: 15
+Autores: 8
+
+Componente: Flags
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\flags\Flags.tsx
+Commits: 11
+Autores: 6
+
+Componente: GraphControls.test
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\graph\GraphControls.test.tsx
+Commits: 10
+Autores: 8
+
+Componente: QueryPage
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\mantine-ui\src\pages\query\QueryPage.tsx
+Commits: 9
+Autores: 1
+
+Componente: Alerts
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\alerts\Alerts.tsx
+Commits: 8
+Autores: 5
+
+Componente: RangeInput
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\mantine-ui\src\pages\query\RangeInput.tsx
+Commits: 8
+Autores: 1
+
+Componente: Rules
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\rules\Rules.tsx
+Commits: 8
+Autores: 5
+
+Componente: TimeInput.test
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\graph\TimeInput.test.tsx
+Commits: 6
+Autores: 6
+
+Componente: AlertContents.test
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\alerts\AlertContents.test.tsx
+Commits: 5
+Autores: 5
+
+Componente: TreeView
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\mantine-ui\src\pages\query\TreeView.tsx
+Commits: 5
+Autores: 1
+
+Componente: ThemeContext
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\contexts\ThemeContext.tsx
+Commits: 4
+Autores: 3
+
+Componente: functionDocs
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\mantine-ui\src\promql\functionDocs.tsx
+Commits: 4
+Autores: 4
+
+Componente: InfoPageCard
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\mantine-ui\src\components\InfoPageCard.tsx
+Commits: 2
+Autores: 1
+
+Componente: NotificationsIcon
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\mantine-ui\src\components\NotificationsIcon.tsx
+Commits: 2
+Autores: 2
+
+Componente: BinaryExpr
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\mantine-ui\src\pages\query\ExplainViews\BinaryExpr\BinaryExpr.tsx
+Commits: 1
+Autores: 1
+
+Componente: InfoPageStack
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\mantine-ui\src\components\InfoPageStack.tsx
+Commits: 1
+Autores: 1
+
+Componente: ScalarScalar
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\mantine-ui\src\pages\query\ExplainViews\BinaryExpr\ScalarScalar.tsx
+Commits: 1
+Autores: 1

@@ -1,0 +1,166 @@
+Redash - Análise de Componentes com Code Smells
+================================================================================
+
+Total de componentes analisados: 19
+Média de commits por componente: 52.21
+Média de autores por componente: 9.95
+
+Distribuição de Code Smells:
+--------------------------------------------------
+Large Component: 15 ocorrências (78.9% dos componentes)
+Too many props: 8 ocorrências (42.1% dos componentes)
+JSX outside the render method: 6 ocorrências (31.6% dos componentes)
+Direct DOM Manipulation: 2 ocorrências (10.5% dos componentes)
+Uncontrolled component: 2 ocorrências (10.5% dos componentes)
+Inheritance instead of composition: 1 ocorrências (5.3% dos componentes)
+
+Detalhes por componente:
+================================================================================
+
+Componente: Editor
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Editor.js
+Commits: 281
+Autores: 33
+Code Smells:
+  - Direct DOM Manipulation
+  - JSX outside the render method
+  - Too many props
+  - Large Component
+
+Componente: Carbon
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Carbon.js
+Commits: 181
+Autores: 26
+Code Smells:
+  - Direct DOM Manipulation
+  - JSX outside the render method
+  - Too many props
+  - Large Component
+
+Componente: MiscSettings
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Settings.js
+Commits: 85
+Autores: 19
+Code Smells:
+  - Uncontrolled component
+
+Componente: Settings
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Settings.js
+Commits: 85
+Autores: 19
+Code Smells:
+  - JSX outside the render method
+  - Too many props
+  - Large Component
+
+Componente: Dropdown
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Dropdown.js
+Commits: 61
+Autores: 11
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: ExportMenu
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\ExportMenu.js
+Commits: 47
+Autores: 9
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: About
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\pages\about.js
+Commits: 39
+Autores: 12
+Code Smells:
+  - Large Component
+
+Componente: BackgroundSelect
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\BackgroundSelect.js
+Commits: 37
+Autores: 7
+Code Smells:
+  - Large Component
+
+Componente: Themes
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Themes\index.js
+Commits: 30
+Autores: 6
+Code Smells:
+  - JSX outside the render method
+
+Componente: Button
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Button.js
+Commits: 29
+Autores: 9
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: ImagePicker
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\ImagePicker.js
+Commits: 26
+Autores: 6
+Code Smells:
+  - JSX outside the render method
+  - Too many props
+  - Large Component
+
+Componente: Reset
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\style\Reset.js
+Commits: 23
+Autores: 6
+Code Smells:
+  - Large Component
+
+Componente: FontSelect
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\FontSelect.js
+Commits: 13
+Autores: 6
+Code Smells:
+  - Uncontrolled component
+
+Componente: SnippetToolbar
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\SnippetToolbar.js
+Commits: 12
+Autores: 2
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: Doc
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\pages\_document.js
+Commits: 11
+Autores: 3
+Code Smells:
+  - Inheritance instead of composition
+
+Componente: Billing
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Billing.js
+Commits: 10
+Autores: 3
+Code Smells:
+  - Large Component
+
+Componente: ThemeCreate
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Themes\ThemeCreate.js
+Commits: 9
+Autores: 4
+Code Smells:
+  - Large Component
+
+Componente: Plan
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\pages\account.js
+Commits: 7
+Autores: 4
+Code Smells:
+  - Large Component
+
+Componente: PopoutManager
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Popout.js
+Commits: 6
+Autores: 4
+Code Smells:
+  - JSX outside the render method
+  - Large Component

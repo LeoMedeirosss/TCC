@@ -1,0 +1,110 @@
+Carbon - Análise de Componentes sem Code Smells
+================================================================================
+
+Total de componentes analisados: 20
+
+Média de commits por componente: 16.40
+Média de autores por componente: 4.70
+
+Detalhes por componente (ordenados por número de commits):
+================================================================================
+
+Componente: Meta
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Meta.js
+Commits: 101
+Autores: 21
+
+Componente: index
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\pages\embed\index.js
+Commits: 28
+Autores: 3
+
+Componente: ColorPicker
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\ColorPicker.js
+Commits: 27
+Autores: 8
+
+Componente: RandomImage
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\RandomImage.js
+Commits: 25
+Autores: 3
+
+Componente: .eslintrc
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\.eslintrc.js
+Commits: 24
+Autores: 6
+
+Componente: Slider
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Slider.js
+Commits: 19
+Autores: 8
+
+Componente: Page
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Page.js
+Commits: 17
+Autores: 7
+
+Componente: Header
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Header.js
+Commits: 16
+Autores: 6
+
+Componente: SelectionEditor
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\SelectionEditor.js
+Commits: 13
+Autores: 2
+
+Componente: snippets
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\pages\snippets.js
+Commits: 10
+Autores: 3
+
+Componente: Typography
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\style\Typography.js
+Commits: 10
+Autores: 7
+
+Componente: WidthHandler
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\WidthHandler.js
+Commits: 8
+Autores: 2
+
+Componente: [id]
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\pages\embed\[id].js
+Commits: 7
+Autores: 2
+
+Componente: LoginButton
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\LoginButton.js
+Commits: 6
+Autores: 3
+
+Componente: Overlay
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Overlay.js
+Commits: 5
+Autores: 4
+
+Componente: ShareMenu
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\ShareMenu.js
+Commits: 5
+Autores: 4
+
+Componente: Toasts
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\Toasts.js
+Commits: 4
+Autores: 2
+
+Componente: ReferralLink
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\ReferralLink.js
+Commits: 1
+Autores: 1
+
+Componente: AuthContext
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\AuthContext.js
+Commits: 1
+Autores: 1
+
+Componente: ConfirmButton
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\carbon\components\ConfirmButton.js
+Commits: 1
+Autores: 1

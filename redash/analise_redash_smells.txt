@@ -1,0 +1,442 @@
+Redash - Análise de Componentes com Code Smells
+================================================================================
+
+Total de componentes analisados: 53
+Média de commits por componente: 14.64
+Média de autores por componente: 4.98
+
+Distribuição de Code Smells:
+--------------------------------------------------
+Large Component: 46 ocorrências (86.8% dos componentes)
+Too many props: 27 ocorrências (50.9% dos componentes)
+JSX outside the render method: 26 ocorrências (49.1% dos componentes)
+Force Update: 3 ocorrências (5.7% dos componentes)
+Props in initial state: 2 ocorrências (3.8% dos componentes)
+Inheritance instead of composition: 2 ocorrências (3.8% dos componentes)
+
+Detalhes por componente:
+================================================================================
+
+Componente: QuerySource
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\queries\QuerySource.jsx
+Commits: 29
+Autores: 8
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: UsersList
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\users\UsersList.jsx
+Commits: 28
+Autores: 4
+Code Smells:
+  - JSX outside the render method
+  - Large Component
+
+Componente: ParameterMappingInput
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\ParameterMappingInput.jsx
+Commits: 27
+Autores: 7
+Code Smells:
+  - JSX outside the render method
+  - Large Component
+
+Componente: MappingEditor
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\ParameterMappingInput.jsx
+Commits: 27
+Autores: 7
+Code Smells:
+  - JSX outside the render method
+  - Large Component
+
+Componente: TitleEditor
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\ParameterMappingInput.jsx
+Commits: 27
+Autores: 7
+Code Smells:
+  - JSX outside the render method
+  - Large Component
+
+Componente: ParameterMappingListInput
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\ParameterMappingInput.jsx
+Commits: 27
+Autores: 7
+Code Smells:
+  - JSX outside the render method
+  - Large Component
+
+Componente: ParameterValueInput
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\ParameterValueInput.jsx
+Commits: 26
+Autores: 8
+Code Smells:
+  - JSX outside the render method
+  - Large Component
+
+Componente: QueryView
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\queries\QueryView.jsx
+Commits: 24
+Autores: 5
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: VisualizationWidget
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\dashboards\dashboard-widget\VisualizationWidget.jsx
+Commits: 23
+Autores: 7
+Code Smells:
+  - Props in initial state
+  - JSX outside the render method
+  - Too many props
+  - Large Component
+
+Componente: EmptyState
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\empty-state\EmptyState.jsx
+Commits: 23
+Autores: 6
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: ScheduleDialog
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\queries\ScheduleDialog.jsx
+Commits: 21
+Autores: 6
+Code Smells:
+  - JSX outside the render method
+  - Too many props
+  - Large Component
+
+Componente: EditVisualizationDialog
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\visualizations\EditVisualizationDialog.jsx
+Commits: 21
+Autores: 5
+Code Smells:
+  - Large Component
+
+Componente: DashboardMoreOptionsButton
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\dashboards\components\DashboardHeader.jsx
+Commits: 21
+Autores: 5
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: GroupDataSources
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\groups\GroupDataSources.jsx
+Commits: 19
+Autores: 4
+Code Smells:
+  - JSX outside the render method
+  - Force Update
+  - Large Component
+
+Componente: DashboardComponent
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\dashboards\DashboardPage.jsx
+Commits: 18
+Autores: 4
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: DataSourcesList
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\data-sources\DataSourcesList.jsx
+Commits: 18
+Autores: 4
+Code Smells:
+  - JSX outside the render method
+  - Too many props
+  - Large Component
+
+Componente: GroupMembers
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\groups\GroupMembers.jsx
+Commits: 18
+Autores: 4
+Code Smells:
+  - Force Update
+  - Large Component
+
+Componente: EditParameterSettingsDialog
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\EditParameterSettingsDialog.jsx
+Commits: 17
+Autores: 6
+Code Smells:
+  - Large Component
+
+Componente: Parameters
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\Parameters.jsx
+Commits: 17
+Autores: 8
+Code Smells:
+  - JSX outside the render method
+  - Large Component
+
+Componente: QueryBasedParameterInput
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\QueryBasedParameterInput.jsx
+Commits: 17
+Autores: 7
+Code Smells:
+  - JSX outside the render method
+
+Componente: QuerySnippetsList
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\query-snippets\QuerySnippetsList.jsx
+Commits: 17
+Autores: 4
+Code Smells:
+  - JSX outside the render method
+  - Too many props
+  - Large Component
+
+Componente: QuerySelector
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\QuerySelector.jsx
+Commits: 16
+Autores: 4
+Code Smells:
+  - Large Component
+
+Componente: FavoritesControl
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\FavoritesControl.jsx
+Commits: 15
+Autores: 4
+Code Smells:
+  - Force Update
+
+Componente: CreateSourceDialog
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\CreateSourceDialog.jsx
+Commits: 14
+Autores: 5
+Code Smells:
+  - JSX outside the render method
+  - Large Component
+
+Componente: EditDataSource
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\data-sources\EditDataSource.jsx
+Commits: 14
+Autores: 6
+Code Smells:
+  - JSX outside the render method
+  - Too many props
+  - Large Component
+
+Componente: DestinationsList
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\destinations\DestinationsList.jsx
+Commits: 14
+Autores: 4
+Code Smells:
+  - JSX outside the render method
+
+Componente: EditInPlace
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\EditInPlace.jsx
+Commits: 13
+Autores: 8
+Code Smells:
+  - Props in initial state
+  - JSX outside the render method
+  - Large Component
+
+Componente: ItemsListWrapper
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\items-list\ItemsList.tsx
+Commits: 13
+Autores: 4
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: Alert
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\alert\Alert.jsx
+Commits: 13
+Autores: 5
+Code Smells:
+  - JSX outside the render method
+  - Too many props
+  - Large Component
+
+Componente: AlertDestinations
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\alert\components\AlertDestinations.jsx
+Commits: 13
+Autores: 6
+Code Smells:
+  - JSX outside the render method
+  - Large Component
+
+Componente: ShareDashboardDialog
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\dashboards\components\ShareDashboardDialog.jsx
+Commits: 13
+Autores: 8
+Code Smells:
+  - JSX outside the render method
+
+Componente: QueryPageHeader
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\queries\components\QueryPageHeader.jsx
+Commits: 13
+Autores: 4
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: Jobs
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\admin\Jobs.jsx
+Commits: 12
+Autores: 4
+Code Smells:
+  - JSX outside the render method
+  - Large Component
+
+Componente: EditDestination
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\destinations\EditDestination.jsx
+Commits: 12
+Autores: 4
+Code Smells:
+  - JSX outside the render method
+  - Too many props
+  - Large Component
+
+Componente: DesktopNavbar
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\ApplicationArea\ApplicationLayout\DesktopNavbar.jsx
+Commits: 10
+Autores: 5
+Code Smells:
+  - Large Component
+
+Componente: ItemsTable
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\items-list\components\ItemsTable.jsx
+Commits: 10
+Autores: 4
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: GeneralSettings
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\viz-lib\src\visualizations\choropleth\Editor\FormatSettings.tsx
+Commits: 10
+Autores: 5
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: DatabricksSchemaBrowser
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\queries\editor-components\databricks\DatabricksSchemaBrowser.jsx
+Commits: 9
+Autores: 3
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: MenuButton
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\alert\components\MenuButton.jsx
+Commits: 9
+Autores: 5
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: DashboardGrid
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\dashboards\DashboardGrid.jsx
+Commits: 8
+Autores: 6
+Code Smells:
+  - JSX outside the render method
+  - Too many props
+  - Large Component
+
+Componente: SelectItemsDialog
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\SelectItemsDialog.jsx
+Commits: 8
+Autores: 5
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: AlertEdit
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\alert\AlertEdit.jsx
+Commits: 8
+Autores: 5
+Code Smells:
+  - JSX outside the render method
+  - Too many props
+  - Large Component
+
+Componente: Criteria
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\alert\components\Criteria.jsx
+Commits: 8
+Autores: 5
+Code Smells:
+  - Large Component
+
+Componente: StyleSettings
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\viz-lib\src\visualizations\map\Editor\StyleSettings.tsx
+Commits: 8
+Autores: 5
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: NotificationTemplate
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\alert\components\NotificationTemplate.jsx
+Commits: 7
+Autores: 4
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: ChangePasswordDialog
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\users\components\PasswordForm\ChangePasswordDialog.jsx
+Commits: 7
+Autores: 3
+Code Smells:
+  - JSX outside the render method
+  - Too many props
+  - Large Component
+
+Componente: ErrorBoundary
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\viz-lib\src\components\ErrorBoundary.tsx
+Commits: 6
+Autores: 4
+Code Smells:
+  - JSX outside the render method
+
+Componente: Widget
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\dashboards\dashboard-widget\Widget.jsx
+Commits: 5
+Autores: 3
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: AlertNew
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\alert\AlertNew.jsx
+Commits: 5
+Autores: 4
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: SaveQueryError
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\queries\hooks\useUpdateQuery.jsx
+Commits: 5
+Autores: 2
+Code Smells:
+  - Inheritance instead of composition
+
+Componente: SaveQueryConflictError
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\queries\hooks\useUpdateQuery.jsx
+Commits: 5
+Autores: 2
+Code Smells:
+  - Inheritance instead of composition
+
+Componente: UserInfoForm
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\users\components\UserInfoForm.jsx
+Commits: 5
+Autores: 3
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: Resizable
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\Resizable\index.jsx
+Commits: 3
+Autores: 2
+Code Smells:
+  - Large Component

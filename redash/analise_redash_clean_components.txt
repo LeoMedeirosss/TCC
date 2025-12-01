@@ -1,0 +1,109 @@
+Redash - Análise de Componentes sem Code Smells
+================================================================================
+
+Total de componentes analisados: 20
+Média de commits por componente: 6.70
+Média de autores por componente: 3.25
+
+Detalhes por componente:
+================================================================================
+
+Componente: AlertsList
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\alerts\AlertsList.jsx
+Commits: 21
+Autores: 5
+
+Componente: UserProfile
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\users\UserProfile.jsx
+Commits: 14
+Autores: 4
+
+Componente: ContextHelp
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\viz-lib\src\components\visualizations\editor\ContextHelp.tsx
+Commits: 10
+Autores: 6
+
+Componente: OutdatedQueries
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\pages\admin\OutdatedQueries.jsx
+Commits: 10
+Autores: 4
+
+Componente: DateRangeInput
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\DateRangeInput.jsx
+Commits: 10
+Autores: 3
+
+Componente: Renderer
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\viz-lib\src\visualizations\pivot\Renderer.tsx
+Commits: 8
+Autores: 5
+
+Componente: RQStatus
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\admin\RQStatus.jsx
+Commits: 8
+Autores: 3
+
+Componente: AutocompleteToggle
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\queries\QueryEditor\AutocompleteToggle.jsx
+Commits: 7
+Autores: 3
+
+Componente: XAxisSettings.test
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\viz-lib\src\visualizations\chart\Editor\XAxisSettings.test.tsx
+Commits: 7
+Autores: 5
+
+Componente: VisualizationName
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\visualizations\VisualizationName.jsx
+Commits: 7
+Autores: 3
+
+Componente: ExpandedWidgetDialog
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\dashboards\ExpandedWidgetDialog.jsx
+Commits: 7
+Autores: 3
+
+Componente: GridSettings.test
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\viz-lib\src\visualizations\table\Editor\GridSettings.test.tsx
+Commits: 6
+Autores: 4
+
+Componente: CreateGroupDialog
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\groups\CreateGroupDialog.jsx
+Commits: 4
+Autores: 4
+
+Componente: TextArea
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\viz-lib\src\components\visualizations\editor\TextArea.tsx
+Commits: 4
+Autores: 3
+
+Componente: Editor
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\viz-lib\src\visualizations\pivot\Editor.tsx
+Commits: 2
+Autores: 2
+
+Componente: GeneralSettings
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\viz-lib\src\visualizations\counter\Editor\GeneralSettings.tsx
+Commits: 2
+Autores: 2
+
+Componente: PlainButton
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\client\app\components\PlainButton.tsx
+Commits: 2
+Autores: 1
+
+Componente: Editor
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\viz-lib\src\visualizations\word-cloud\Editor.tsx
+Commits: 2
+Autores: 2
+
+Componente: ColumnsSettings
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\viz-lib\src\visualizations\cohort\Editor\ColumnsSettings.tsx
+Commits: 2
+Autores: 2
+
+Componente: Renderer.test
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\redash\viz-lib\src\visualizations\details\Renderer.test.tsx
+Commits: 1
+Autores: 1

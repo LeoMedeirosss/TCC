@@ -1,0 +1,109 @@
+Redash - Análise de Componentes com Code Smells
+================================================================================
+
+Total de componentes analisados: 12
+Média de commits por componente: 14.50
+Média de autores por componente: 7.00
+
+Distribuição de Code Smells:
+--------------------------------------------------
+Large Component: 11 ocorrências (91.67% dos componentes)
+Too many props: 7 ocorrências (58.3% dos componentes)
+JSX outside the render method: 4 ocorrências (33.3% dos componentes)
+
+Detalhes por componente:
+================================================================================
+
+Componente: Panel
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\graph\Panel.tsx
+Commits: 38
+Autores: 16
+Code Smells:
+  - Too many props
+  - Large Component
+  - JSX outside the render method
+
+Componente: ExpressionInput
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\graph\ExpressionInput.tsx
+Commits: 28
+Autores: 12
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: DataTable
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\graph\DataTable.tsx
+Commits: 20
+Autores: 14
+Code Smells:
+  - Large Component
+
+Componente: AlertsContent
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\alerts\AlertContents.tsx
+Commits: 16
+Autores: 10
+Code Smells:
+  - Too many props
+
+Componente: TimeInput
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\graph\TimeInput.tsx
+Commits: 16
+Autores: 7
+Code Smells:
+  - Large Component
+  - JSX outside the render method
+
+Componente: Graph
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\graph\Graph.tsx
+Commits: 14
+Autores: 6
+Code Smells:
+  - Large Component
+  - JSX outside the render method
+
+Componente: GraphControls
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\graph\GraphControls.tsx
+Commits: 14
+Autores: 7
+Code Smells:
+  - Large Component
+  - JSX outside the render method
+
+Componente: TSDBStatusContent
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\tsdbStatus\TSDBStatus.tsx
+Commits: 11
+Autores: 7
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: MetricsExplorer
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\mantine-ui\src\pages\query\MetricsExplorer\MetricsExplorer.tsx
+Commits: 7
+Autores: 2
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: VectorVectorBinaryExprExplainView
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\mantine-ui\src\pages\query\ExplainViews\BinaryExpr\VectorVector.tsx
+Commits: 6
+Autores: 1
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: RenderHistogramBars
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\react-app\src\pages\graph\HistogramChart.tsx
+Commits: 3
+Autores: 1
+Code Smells:
+  - Too many props
+  - Large Component
+
+Componente: HistogramChart
+Arquivo: C:\Users\leozi\OneDrive\Área de Trabalho\Analise\RepositoriosClonados\prometheus\web\ui\mantine-ui\src\pages\query\HistogramChart.tsx
+Commits: 1
+Autores: 1
+Code Smells:
+  - Large Component
